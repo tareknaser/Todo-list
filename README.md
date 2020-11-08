@@ -1,4 +1,4 @@
-### ToDo-List
+# ToDo-List
 ## CONTENTS OF THIS FILE
 
  * Introduction
@@ -9,7 +9,7 @@
 
 
 
-# Introduction
+### Introduction
 
 ToDo-List is an easy to use web application for dealing with daily tasks. 
 It offers multiple lists with various tasks.
@@ -18,19 +18,19 @@ It offers multiple lists with various tasks.
 
 ![Preview image](/img/preview.jpg)
 
-# Built With
+### Built With
 
 * HTML
 * CSS
 * JavaScript
 
 
-# Requirements
+### Requirements
 - Download all files and folders.
 - Open index.html with any browser.
 
 
-# Usage
+### Usage
 
 - type the new list name and click the add button to create your first list of tasks.
 - notice the tasks list which will keep track of the number of the remaining tasks.
