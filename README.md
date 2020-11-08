@@ -3,7 +3,7 @@
  * Introduction
  * Built With
  * Usage
- * Contact
+
 
 
 # Introduction
@@ -35,6 +35,4 @@ It offers multiple lists with various tasks.
 
 
 
-## Contact
 
-Tarek Mohammed Nasser - [tareknaser360@gmail.com](tareknaser360@gmail.com)
