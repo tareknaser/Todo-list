@@ -1,7 +1,7 @@
 # ToDo-List
 ## CONTENTS OF THIS FILE
 
- * Introduction
+ * Overview
  * Built With
  * Requirements
  * Usage
@@ -9,9 +9,10 @@
 
 
 
-### Introduction
+### Overview
 
 ToDo-List is an easy to use web application for dealing with daily tasks. 
+The application consists of only one page which the user interact with using a couple of forms.
 It offers multiple lists with various tasks.
 - Project Link: [https://github.com/tareknaser360/ToDo-List](https://github.com/tareknaser360/ToDo-List)
 - preview Link: [https://youtu.be/-lz30vxtbCA](https://youtu.be/-lz30vxtbCA)
@@ -24,11 +25,9 @@ It offers multiple lists with various tasks.
 * CSS
 * JavaScript
 
-
 ### Requirements
 - Download all files and folders.
 - Open index.html with any browser.
-
 
 ### Usage
 
