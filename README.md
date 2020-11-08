@@ -15,9 +15,9 @@ It offers multiple lists with various tasks.
 
 ### Built With
 
-* html
-* css
-* javascript
+* HTML
+* CSS
+* JavaScript
 
 
 
