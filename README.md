@@ -12,6 +12,7 @@ ToDo-List is an easy to use web application for dealing with daily tasks.
 It offers multiple lists with various tasks.
 - Project Link: [https://github.com/tareknaser360/ToDo-List](https://github.com/tareknaser360/ToDo-List)
 - preview Link: [https://youtu.be/-lz30vxtbCA](https://youtu.be/-lz30vxtbCA)
+
 ![Preview image](/img/preview.jpg)
 
 ### Built With
