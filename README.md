@@ -1,11 +1,4 @@
 # ToDo-List
-## CONTENTS OF THIS FILE
-
- * Overview
- * Built With
- * Requirements
- * Usage
- 
 
 
 
