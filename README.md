@@ -1,10 +1,10 @@
-# ToDo-List
+# Todo list
 
 
 
 ### Overview
 
-ToDo-List is an easy to use web application for dealing with daily tasks. 
+Todo list is an easy-to-use web application for dealing with daily tasks. 
 The application consists of only one page which the user interact with using a couple of forms.
 It offers multiple lists with various tasks.
 - Project Link: [https://github.com/tareknaser360/ToDo-List](https://github.com/tareknaser360/ToDo-List)
